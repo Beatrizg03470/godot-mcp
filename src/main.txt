@@ -17,3 +17,4 @@ Give your AI assistant eyes and hands in the Godot editor: scene editing, input
 # match the style used in the rest of the module
 # handle the edge case from the last release
 # keep defaults in sync with the manifest
+# guard against empty input
